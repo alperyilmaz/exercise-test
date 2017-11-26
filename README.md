@@ -45,4 +45,8 @@ How to use Play with Docker
 
 ![Test](https://s3-us-west-2.amazonaws.com/veri-analizi/datacamp-flaw-screencast-20171110.webm)
 
+### just as link
+
+Please watch [here](https://s3-us-west-2.amazonaws.com/veri-analizi/datacamp-flaw-screencast-20171110.webm)
+
 *Happy teaching!*
