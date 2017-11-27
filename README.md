@@ -30,23 +30,4 @@ Every DataCamp exercise consists of different parts, read up about them <a href=
 
 Want to learn more? Check out the <a href=https://www.datacamp.com//teach/documentation target="_blank">documentation</a> on teaching at DataCamp.
 
-## Webm test
-
-How to use Play with Docker
-
-### remote file with video tag
-
- <video width="320" height="240" controls>
-  <source src="https://s3-us-west-2.amazonaws.com/veri-analizi/datacamp-flaw-screencast-20171110.webm" type="video/webm">
-  Your browser does not support the video tag.
-</video> 
-
-### remote file with markdown
-
-![Test](https://s3-us-west-2.amazonaws.com/veri-analizi/datacamp-flaw-screencast-20171110.webm)
-
-### just as link
-
-Please watch [here](https://s3-us-west-2.amazonaws.com/veri-analizi/datacamp-flaw-screencast-20171110.webm)
-
 *Happy teaching!*
